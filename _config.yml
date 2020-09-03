@@ -8,3 +8,5 @@ collections:
   courses:
     permalink: /courses/:path/
     output: true
+
+theme: jekyll-theme-cayman
